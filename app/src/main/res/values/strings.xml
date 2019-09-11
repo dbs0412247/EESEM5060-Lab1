@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EESM5060 Lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="print">Adrian Yuen (hcayuen) says Hello World</string>
+    <string name="nameBoy">Boy</string>
+    <string name="nameGirl">Girl</string>
+
+</resources>
